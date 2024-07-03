@@ -27,13 +27,13 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 
 ## 🛠️ Tech Stacks
 
-- 🌳 GitHub
 - 🖥️ Microsoft PowerBI
 - 📊 Tableau
 - 🎨 Figma
 - 📡 MERN Stack (MongoDB, Express.js, React, Node.js)
 - 🗃️ MySQL
 - 📮 Postman API
+- 🐧 Linux
 
 ## 📈 GitHub Stats
 
