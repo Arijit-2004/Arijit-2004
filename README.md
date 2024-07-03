@@ -1,14 +1,14 @@
-# Hi there, I'm Arijit Chatterjee! 👋
+# Hi there, I'm Arijit Chatterjee ! 👋
 
 I'm a passionate Computer Science and Engineering student at HITK, currently in my 3rd year. I'm actively involved in various tech communities and love contributing to open-source projects.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced programming and software development.
-- 👯 I’m passionate about Data Analytics and aspire to be one.
+- 👯 I’m passoniate about Data Analytics and aspire to be one.
 - 💬 Ask me about anything tech-related, I'm always open to discussions!
 - 📫 How to reach me: [arijit2004bandel@gmail.com](mailto:arijit2004bandel@gmail.com)
-- ⚡ Fun fact: I love playing the guitar and can listen to music for hours on loop!
+- ⚡ Fun fact:I love playing the guitar and can listen to music for hours on loop! 
 
 ## 🛠 Tech Communities
 
@@ -18,24 +18,17 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 - **Resourcio Community**
 - **Cloud Native Computing Foundation (CNCF) Hooghly Chapter**
 
-## 🛠️ Tech Stacks
+## 🛠️ Languages and Tools
 
-### Fluent in:
-- 🐍 Python
-- 🌐 C, C++
-- 💻 JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### SQL Enthusiast:
-- 🗃️ MySQL
-- 📦 MongoDB
-
-### Web Development Enthusiast:
-- 📊 scikit-learn
-- 🤖 TensorFlow
-- 🌐 Flask, Django
-- ⚙️ Keras, PyTorch
-- 🌍 Node.js, React
-- 🛠️ Git
 
 ## 📈 GitHub Stats
 
