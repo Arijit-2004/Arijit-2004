@@ -1,17 +1,18 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Arijit Chatterjee ! 👋
 
-I'm a passionate Computer Science and Engineering student at HITK, currently in my 2nd year. I'm actively involved in various tech communities and love contributing to open-source projects.
+I'm a passionate Computer Science and Engineering student at HITK, currently in my 3rd year. I'm actively involved in various tech communities and love contributing to open-source projects.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced programming and software development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything tech-related, I'm always open to discussions!
-- 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)
+- 📫 How to reach me: [arijit2004bandel@gmail.com](mailto:arijit2004bandel@gmail.com)
 - ⚡ Fun fact: [Your fun fact here]
 
 ## 🛠 Tech Communities
 
+- **Campus Ambassador (Geeks for Geeks) at HITK**
 - **Google Developer Student Club (GDSC)**
 - **ACM Student Chapter**
 - **Resourcio**
@@ -28,15 +29,6 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project does and its purpose.
-- **Tech Stack:** Python, Flask, SQLAlchemy
-
-### [Project Name 2](https://github.com/yourusername/project2)
-A brief description of what this project does and its purpose.
-- **Tech Stack:** JavaScript, React, Node.js
 
 ## 📈 GitHub Stats
 
@@ -45,7 +37,8 @@ A brief description of what this project does and its purpose.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/arijitc09102004/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourtwitter/](https://twitter.com/ARIJITC03714269))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijit2004bandel@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourinstagram/](https://www.instagram.com/arijit.star04/))
 
