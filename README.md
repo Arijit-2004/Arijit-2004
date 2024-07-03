@@ -5,7 +5,7 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced programming and software development.
-- 👯 I’m passionate about Data Analytics and aspire to be one.
+- 👯 I’m passionate about web development and Data analysis.
 - 💬 Ask me about anything tech-related, I'm always open to discussions!
 - 📫 How to reach me: [arijit2004bandel@gmail.com](mailto:arijit2004bandel@gmail.com)
 - ⚡ Fun fact: I love playing the guitar and can listen to music for hours on loop!
@@ -23,19 +23,17 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 - 🐍 Python
 - ☕ Java
 - 🌐 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
+- 🅾️ C
 
 ## 🛠️ Tech Stacks
 
-- 🐍 Python
-- ☕ Java
-- 🌐 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
-- 📦 Git
 - 🌳 GitHub
-- 🧰 VS Code
+- 🖥️ Microsoft PowerBI
+- 📊 Tableau
+- 🎨 Figma
+- 📡 MERN Stack (MongoDB, Express.js, React, Node.js)
+- 🗃️ MySQL
+- 📮 Postman API
 
 ## 📈 GitHub Stats
 
