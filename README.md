@@ -33,7 +33,7 @@ I'm a passionate Computer Science and Engineering student at HITK, currently in 
 - 📡 MERN Stack (MongoDB, Express.js, React, Node.js)
 - 🗃️ MySQL
 - 📮 Postman API
-- 🐧 Linux
+- 🐧 Linux Proficiency
 
 ## 📈 GitHub Stats
 
